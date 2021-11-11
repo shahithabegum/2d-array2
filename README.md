@@ -1,2 +1,2 @@
 # 2d-array2
-division of 2d array
+multiplication of 2d array
